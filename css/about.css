@@ -1,0 +1,36 @@
+.about {
+  width: 70%;
+  text-align: center;
+  font-family: "Nanum Pen Script";
+}
+.about li {
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.about-div {
+  float: left;
+  width: 25%;
+}
+.about h1 {
+  font-size: 40px;
+  margin: 0px auto;
+}
+.about h2 {
+  font-size: 29px;
+}
+.about h3 {
+  font-size: 25px;
+}
+.about h4 {
+  font-size: 21px;
+}
+.about hr {
+  width: 70%;
+  border: 2px solid rgba(0, 0, 0, 0.267);
+}
+.about-img {
+  width: 35%;
+  margin-top: 10%;
+}
